@@ -1,10 +1,10 @@
 ## Exploratory-data-Analysis-Python
 Explore and derive insights from a multi-table dataset to understand underlying patterns and relationships.
 
-🔧 Project Overview
+### 🔧 Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) using Python on a custom dataset consisting of multiple related tables. The workflow demonstrates data preprocessing, transformation, merging, and analysis using structured problem statements.
 
-📌 Tasks Performed
+### 📌 Tasks Performed
 - Created three separate dataframes from the given tables and exported them as .csv files for further use.
 - Handled missing values in the Project dataset by replacing them with a running average using a loop-based approach.
 - Split the Name column in the Employee dataset into First Name and Last Name, and removed the original column.
@@ -21,16 +21,14 @@ First Name
 Total Project Cost
 - Filtered and displayed employee records where the city name contains the letter "o".
 
-🚀 Key Skills Demonstrated
-Data Cleaning & Preprocessing
-Handling Missing Values
-Data Transformation
-Data Merging & Aggregation
-Conditional Logic in Python
-Working with Multiple Dataframes
-File Handling using CSV
+### 🚀 Key Skills
+- Data Cleaning & Preprocessing
+- Handling Missing Values
+- Data Transformation
+- Data Merging & Aggregation
+- Conditional Logic in Python
 
-🛠️ Tech Stack
-Python
-Pandas
-NumPy
+### 🛠️ Tech Stack
+- Python
+- Pandas
+- NumPy
